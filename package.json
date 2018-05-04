@@ -1,0 +1,16 @@
+{
+  "name": "netflixandchill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "node-hue-api": "^2.4.2",
+    "spotify-web-api-node": "^2.5.0"
+  }
+}
